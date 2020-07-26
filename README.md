@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm backend developer specialiced on PHP ( mostly Symfony ) and noSQL ( mostly MongoDB ).
+I'm backend developer specialized on PHP ( mostly Symfony ) and noSQL ( mostly MongoDB ).
 
 Interested in good practices and SOLID. Trying to use new software architectures.
 
