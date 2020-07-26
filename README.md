@@ -5,7 +5,7 @@ I'm backend developer specialiced on PHP ( mostly Symfony ) and noSQL ( mostly M
 Interested in good practices and SOLID. Trying to use new software architectures.
 
 
-### Technologies
+## Technologies
 
 ![Symfony](https://img.shields.io/badge/-Symfony-black?style=for-the-badge&logo=Symfony)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
@@ -18,8 +18,10 @@ Interested in good practices and SOLID. Trying to use new software architectures
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 
-### Stats
+## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yurujai&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yurujai&hide=issues&theme=tokyonight&show_icons=true)
+
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yurujai)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yurujai.yurujai)
