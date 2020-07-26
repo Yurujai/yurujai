@@ -19,8 +19,6 @@ Interested in good practices and SOLID. Trying to use new software architectures
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yurujai)
-
 ## Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yurujai&hide=issues&theme=tokyonight&show_icons=true) 
