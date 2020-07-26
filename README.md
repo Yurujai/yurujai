@@ -21,7 +21,8 @@ Interested in good practices and SOLID. Trying to use new software architectures
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yurujai&hide=issues&theme=tokyonight&show_icons=true) 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yurujai&theme=tokyonight&show_icons=true)
+
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yurujai)
 
 
